@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm isaac muriuki — Network Engineer & Lab Builder
 
-<!--
-**is-muriuki/is-muriuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building enterprise network labs using **Cisco IOS**  
+🌱 Building: OSPF, BGP, Network Security, and automation with Python  
+📍 Nairobi, Kenya  
+💼 Open to networking roles and collaborations  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+`Cisco IOS` `VLANs` `OSPF` `Router-on-a-Stick` `Subnetting`  
+`Packet Tracer` `Linux` `Git` `Network Security`
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🏢 Cisco Enterprise Network Lab](https://github.com/is-muriuki/Cisco-Enterprise-Network-Lab) | Layer 2/3 network with OSPF, VLANs, and SSH |
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=is-muriuki&show_icons=true&theme=default)
